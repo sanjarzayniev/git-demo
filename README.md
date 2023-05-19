@@ -1,4 +1,8 @@
-# My Notes
+# **My Notes**
+
+![Banner](./banner.png)
+
+<hr>
 
 ## Generating SSH keys
 
