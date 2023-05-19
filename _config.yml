@@ -1,0 +1,25 @@
+title: My Notes About GIT
+
+author: Zayniyev Sanjar
+
+social-network-links:
+  email: "zanievsanjar0@gmail.com"
+  rss: true 
+  github: zaynievsanjar
+
+edit_page_button: true
+
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+footer-hover-col: "#0085A1"
+
+plugins:
+  - jekyll-paginate
